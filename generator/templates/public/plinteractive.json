@@ -1,0 +1,22 @@
+{
+  "appId": "vue-demo",
+  "mode": "history",
+  "main": {
+    "root": "./",
+    "url": "/main",
+    "type": "js"
+  },
+  "client": {
+    "root": "./",
+    "url": "/client"
+  },
+  "config": {
+    "root": "./",
+    "url": "/config"
+  },
+  "console": {
+    "root": "./",
+    "url": "/console"
+  },
+  "server": "./server/index.js"
+}
